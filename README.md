@@ -204,8 +204,4 @@ This project is designed to run **without a GPU**:
 | Gradual unfreeze | Epoch 5 for backbone | Avoids catastrophic forgetting of pretrained features |
 | num_workers=0 | Windows compatibility | `multiprocessing` with `spawn` context causes issues on Windows |
 
----
 
-## ⚠️ Disclaimer
-
-This model is for educational and demonstration purposes only. It is not a certified medical device and must not be used for clinical diagnosis.
